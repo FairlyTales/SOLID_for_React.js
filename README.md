@@ -1,4 +1,4 @@
-# SOLID principles in React
+# SOLID principles for React.js
 
 SOLID principles were created for the object-oriented programming for improving maintainability, scalability, and extensibility and they rely heavily on concepts of classes and interfaces. Both of which are not present in the JavaScript since it's “classes” are merely a syntactic sugar with a prototype system unerneath and interfaces are completely missing from vanila JavaScript but can be used via TypeScript which has fortunately become a de facto standard in the modern frontend. Even more, React code is leaning much more to the functional programming than to the object-oriented
 
